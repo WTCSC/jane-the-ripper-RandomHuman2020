@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36602.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Jane The Ripper", "Jane The Ripper.pyproj", "{E19D61F0-423F-4C19-927E-1D93D77F9F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19D61F0-423F-4C19-927E-1D93D77F9F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19D61F0-423F-4C19-927E-1D93D77F9F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939FF176-A8EF-417B-B364-9EB0000C4F17}
+	EndGlobalSection
+EndGlobal
